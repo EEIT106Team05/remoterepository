@@ -16,6 +16,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import model.ProductBean;
 import model.ProductService;
 
+
+
+//主要以產品id搜尋產品資料
 @Controller
 public class ProductIdController {
 	@Autowired

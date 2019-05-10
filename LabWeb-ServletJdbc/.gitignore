@@ -1,4 +1,7 @@
 /build/
 /.settings/
 /.classpath
-/.project
+*.project
+*.war
+target/*.*
+*.class
