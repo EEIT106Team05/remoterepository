@@ -1,9 +1,9 @@
 /build/
+/.settings/
 /.classpath
 /.project
 /.settings/
 *.project
-/.settings/
 *.war
 target/*.*
 *.class
