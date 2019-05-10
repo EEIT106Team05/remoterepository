@@ -15,6 +15,9 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import model.CustomerBean;
 import model.CustomerService;
 
+
+//此controller是for會員註冊
+
 @Controller
 @SessionAttributes(names={"user"})
 public class LoginController {
